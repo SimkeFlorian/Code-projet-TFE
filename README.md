@@ -1,3 +1,1 @@
-==========================================================================================
-Amusez-vous dans vos projet et n'arrêtez jamais d'explorer les possibilités des sciences
-=========================================================================================
+N'arrêtez jamais d'explorez les possibilités des sciences
